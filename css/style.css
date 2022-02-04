@@ -10,4 +10,44 @@ html {
 body {
   max-width: 320px;
   margin: auto;
+  padding: 19px;
+  background-color: rgb(184, 129, 129);
+}
+
+.site-header {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding: 56px 0 55px 31px;
+  width: 100%;
+  margin-bottom: 20px;
+  width: 88%;
+  background-image: url(../img/img-code-sur-ecrant.jpg);
+  border: solid 2px white;
+}
+
+
+em {
+  font-family:  'Montserrat', sans-serif;
+  color: #03ffbc;
+}
+
+.site-header p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  
+}
+
+.card {
+  background-color: #00fca6;
+  padding: 34px 40px 48px 31px;
+}
+
+.card h3 {
+  font-family:  'Montserrat', sans-serif;
+  color: #0f5b40;
+}
+
+.card p {
+  font-family: 'Open Sans', sans-serif;
+  color: #0f5b40;
 }
